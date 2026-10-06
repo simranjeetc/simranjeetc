@@ -1,4 +1,4 @@
-### Hi, I'm Simranjeet 👋
+### Hi, I am Simran 👋
 
 Lead software engineer with 17+ years building distributed backend systems.
 
