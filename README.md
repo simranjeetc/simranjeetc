@@ -1,4 +1,4 @@
-### Hi, I am Simran 👋
+### Hi, I am Simran 
 
 Lead software engineer with 17+ years building distributed backend systems.
 Most recently **Lead Software Engineer (VP) at JPMorgan Chase**, before that
