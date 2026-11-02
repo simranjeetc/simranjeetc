@@ -32,4 +32,4 @@ observe multi-agent systems in production.
 
 **Elsewhere**
 
-🌐 [simranchawla.com](https://www.simranchawla.com) · 💼 [LinkedIn](https://www.linkedin.com/in/simranjeetchawla) · 𝕏 [@simranzchawla](https://twitter.com/simranzchawla)
+📄 [Resume](https://simranjeetc.github.io/resume-public/) · 🌐 [simranchawla.com](https://www.simranchawla.com) · 💼 [LinkedIn](https://www.linkedin.com/in/simranjeetchawla) · 𝕏 [@simranzchawla](https://twitter.com/simranzchawla)
