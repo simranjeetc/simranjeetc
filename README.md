@@ -24,7 +24,7 @@ observe multi-agent systems in production.
 
 - [**code-gen-evals**](https://github.com/simranjeetc/code-gen-evals) — a four-dimension eval framework for code-generation models: execution, edge, semantic, and style, with cross-dimension disagreement reporting.
 - [**ctxed**](https://github.com/simranjeetc/ctxed) — see what an AI agent session's context is made of: topics, tokens, and status. Written in Go; works with Claude Code and OpenCode.
-- [**hetzner-dev-box**](https://github.com/simranjeetc/hetzner-dev-box) — Terraform + cloud-init infrastructure-as-code for a personal Hetzner Cloud dev box, driven from a tablet through GitHub Actions.
+- [**verified-backlog**](https://github.com/simranjeetc/verified-backlog) — an agentic workflow for working through a backlog: a coding agent takes one item at a time, a separate blind verifier agent judges the evidence, and a small binary keeps an append-only ledger and refuses any record that would lie.
 
 **Focus areas**
 
@@ -32,4 +32,4 @@ observe multi-agent systems in production.
 
 **Elsewhere**
 
-🌐 [simranchawla.com](https://www.simranchawla.com) · 💼 [LinkedIn](https://www.linkedin.com/in/simranjeetchawla) · 𝕏 [@simranzchawla](https://twitter.com/simranzchawla)
+📄 [Resume](https://simranjeetc.github.io/resume-public/) · 🌐 [simranchawla.com](https://www.simranchawla.com) · 💼 [LinkedIn](https://www.linkedin.com/in/simranjeetchawla) · 𝕏 [@simranzchawla](https://twitter.com/simranzchawla)
