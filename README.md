@@ -23,8 +23,8 @@ observe multi-agent systems in production.
 **Selected work**
 
 - [**code-gen-evals**](https://github.com/simranjeetc/code-gen-evals) — a four-dimension eval framework for code-generation models: execution, edge, semantic, and style, with cross-dimension disagreement reporting.
-- [**ctxed**](https://github.com/simranjeetc/ctxed) — see what an AI agent session's context is made of: topics, tokens, and status. Written in Go; works with Claude Code and OpenCode.
-- [**verified-backlog**](https://github.com/simranjeetc/verified-backlog) — an agentic workflow for working through a backlog: a coding agent takes one item at a time, a separate blind verifier agent judges the evidence, and a small binary keeps an append-only ledger and refuses any record that would lie.
+- [**ctxed**](https://github.com/simranjeetc/ctxed) — see what an AI agent session's context is made of: topics, tokens, and status. Go CLI with tagged releases and a one-line installer; works with Claude Code and OpenCode.
+- [**verified-backlog**](https://github.com/simranjeetc/verified-backlog) — an agentic workflow for working through a backlog: a coding agent takes one item at a time, a separate blind verifier agent judges the evidence, and a small binary keeps an append-only ledger and refuses any record that would lie. 11 refusal gates, 362 tests, and the repo runs its own backlog through it.
 
 **Focus areas**
 
